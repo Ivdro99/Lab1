@@ -8,7 +8,7 @@
 </head>
 <body>
     <div>
-     Bienvenido
+     
     </div>
 </body>
 </html>
